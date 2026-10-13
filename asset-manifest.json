@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Sait/static/css/main.9e4c86cd.css",
+    "main.js": "/Sait/static/js/main.33774342.js",
+    "static/js/453.09ed972e.chunk.js": "/Sait/static/js/453.09ed972e.chunk.js",
+    "static/media/3.jpg": "/Sait/static/media/3.29afc61b7e0e49b1effa.jpg",
+    "static/media/2.jpg": "/Sait/static/media/2.45409562b7c8ff95fa94.jpg",
+    "static/media/Предания Олимпа.jpg": "/Sait/static/media/Предания Олимпа.0f9f18b64856c3f99a4d.jpg",
+    "static/media/1.jpg": "/Sait/static/media/1.82e695530af362844cf9.jpg",
+    "index.html": "/Sait/index.html",
+    "main.9e4c86cd.css.map": "/Sait/static/css/main.9e4c86cd.css.map",
+    "main.33774342.js.map": "/Sait/static/js/main.33774342.js.map",
+    "453.09ed972e.chunk.js.map": "/Sait/static/js/453.09ed972e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e4c86cd.css",
+    "static/js/main.33774342.js"
+  ]
+}
